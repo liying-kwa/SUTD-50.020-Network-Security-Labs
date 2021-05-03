@@ -1,0 +1,1 @@
+cmd_/home/seed/Documents/ns/lab5/task2/rule4/rule4.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/seed/Documents/ns/lab5/task2/rule4/rule4.ko /home/seed/Documents/ns/lab5/task2/rule4/rule4.o /home/seed/Documents/ns/lab5/task2/rule4/rule4.mod.o
